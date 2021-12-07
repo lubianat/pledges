@@ -1,27 +1,21 @@
 # About
 
-This file contains clarifications pertaining to questions I am frequently posed about my [pledges](README.md), though not necessarily in the same way. If you have additional questions or need further clarifications, please let me know.
+This file contains clarifications pertaining to (1) questions Daniel Mietchen was posed and I have the same position and (2) questions I was posed. 
 
 # Questions
 
 ## Annotations
 
 * Do I annotate web resources?
-  - Less than I would wish, but [yes](https://hypothes.is/users/Daniel_Mietchen)
+  - Less than I would wish, but [yes](https://hypothes.is/users/lubianat)
 
 ## Authoring
 
-* Do I consent to drafting manuscripts by sending around email attachments?
-  - No
 * Which platforms am I willing to use for collaborative drafting?
-  - ARPHA
-  - Codeberg
   - Etherpad
-  - GitHub
-  - GitLab
+  - GitHub (particularly [Manubot](https://manubot.org/))
   - Google docs
   - MediaWiki
-  - Nextcloud
   - Overleaf
 
 
@@ -39,21 +33,6 @@ This file contains clarifications pertaining to questions I am frequently posed 
 
 * Am I willing to do my part to improve the situation?
   - Yes 
-
-## Editing
-
-* Am I available as an editor for scholarly venues?
-  - Yes, if
-    - I have sufficient expertise.
-    - All publications in the venue are openly licensed.
-    - The publishing fees are reasonable or absent.
-    - The journal and/ or its publisher have signed the [San Francisco Declaration on Research Assessment](https://sfdora.org/).
-    - I can find the time.
-    - I get reasonable answers to any additional questions I may have, e.g.
-      - integration with Wikimedia projects
-      - integration with CiTO
-      - mapping of content to societal challenges
-      - perks for editors 
 
 ## Events
 
@@ -74,20 +53,11 @@ This file contains clarifications pertaining to questions I am frequently posed 
     - I have sufficient expertise.
     - The interview results in at least some materials that are openly licensed.
 
-## Letters of reference
-
-* Am I willing to provide letters of reference?
-  - Yes, if 
-    - I know enough about whoever is to be portrayed in the letter.
-    - I understand the context for which the reference is sought.
-    - I know the requested language well enough to provide such a letter.
-    - I can base a good part of the letter on publicly verifiable information.
-    - The timeline works out.
 
 ## Licensing
 
 * What is the licensing of things that I shared in public?
-  - In many cases, this is stated explicitly. If not, then my contributions to it are to be considered to be under the [CC0 1.0 Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). So if I am the sole contributor to something, it is to be considered to be available under the terms of CC0 1.0. Nonetheless, I would appreciate attribution and even notification where practical. Note that I did sign some copyright transfer agreements in the past, but the last time I did that was around 2012.
+  - In many cases, this is stated explicitly. If not, then my contributions to it are to be considered to be under the [CC0 1.0 Universal Public Domain Dedication (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/). So if I am the sole contributor to something, it is to be considered to be available under the terms of CC0 1.0. Nonetheless, I would appreciate attribution and even notification where practical. 
 
 ## Peer review
 
@@ -105,33 +75,13 @@ This file contains clarifications pertaining to questions I am frequently posed 
 
 * Am I available as a peer reviewer for scholarly manuscripts?
   - Yes, if all of the following conditions are met
-    - All publications in the venue are openly licensed.
     - The materials I am to review are public and openly licensed at the moment my review is requested.
+
 * Am I available as a peer reviewer for scholarly grant proposals?
   - Yes, with a strong preference for proposals that are made public
   - Details depend on who asks
     - Grant authors
       - Yes, if they can demonstrate an intent to publish the proposal (e.g. by pointing to another one that is already public)
-    - Funders
-      - Yes, if they have useful responses to my questions:
-        -  What are you doing to address the prevailing [perverse incentives](https://scholia.toolforge.org/topic/Q100434356) in academia?
-        -  What is the timeline for the reviews?
-        -  How do you plan to match the proposals to the reviewers?
-        -  What precise information do you require from reviewers? Is there a form to fill in or a rubric to follow, and if so, can I see them beforehand?
-        -  How long are the proposals I am expected to review?
-        -  What aspect of the proposals are going to be public?
-        -  Will data management plans or other associated materials be part of the review process? If so, how?
-        -  Will there be any form of interaction between reviewers for a given proposal, or between reviewers and authors (e.g. an author response to reviewer comments)?
-    - Others, e.g. grant reviewers or journalists
-      - Depends, but generally yes if what they produce on that basis is publicly available under an open license.
-* Am I available as a peer reviewer for scholarly data?
-  - Yes, if the data are open or have at least open metadata
-* Am I available as a peer reviewer for scholarly software?
-  - Yes, if the source code is public and openly licensed
-* Am I available as a peer reviewer for scholarly output management plans?
-  - Yes, if they are made public
-* Am I available as a peer reviewer for other outputs of scholarly workflows?
-  - Yes, especially if they are made public
 
 ## Publishing
 
@@ -150,18 +100,14 @@ As an author or co-author of scholarly manuscripts, am I willing
   - to sign copyright transfer agreements?
     - No
 
-## Where do I "document my insights into the societal benefits of activities that take up a major part of my time", as per principle 2?
-
-*This is still in flux but below are some pointers. I might eventually move this to a dedicated file.*
-
-- Alignment between the Sustainable Development Goals and RIO Journal is documented [here](https://doi.org/10.3897/rio.7.e68595).
-- Alignment between the Sustainable Development Goals and Wikimedia activities was the subject of a [dedicated Wikimania 2021 session](https://wikimania.wikimedia.org/wiki/2021:Submissions/Wikimedia_and_Sustainability-Selecting_topics_for_impact). The mapping is [still incomplete](https://github.com/Daniel-Mietchen/ideas/issues/1480), but I am [thinking of making a personalized version](https://github.com/Daniel-Mietchen/ideas/issues/1481) somehow.
-
 ## Who cares?
 
 ### Others who have made similar pledges
 
 * Individuals
+  - Original pledges document: 
+     - [Daniel Mietchen](https://github.com/Daniel-Mietchen/pledges)
+
   - Examples:
     - [Erin McKiernan](https://twitter.com/emckiernan13/status/668885842094522369) &mdash; her [formalization of her pledges](https://emckiernan.wordpress.com/pledge/) inspired me to formalize mine
     - [Ruben Arslan](https://rubenarslan.github.io/bug_bounty.html) (bug bounty for science)
@@ -203,11 +149,3 @@ As an author or co-author of scholarly manuscripts, am I willing
       - [background](http://web.archive.org/web/20190717041419/http://www.kimnicholas.com/academics-flying-less.html)
     - [University of California's 18 Principles to Transform Scholarly Communication](https://senate.universityofcalifornia.edu/_files/committees/ucolasc/scholcommprinciples-20180425.pdf)
     - [The Guardian's climate pledge](https://www.theguardian.com/environment/ng-interactive/2019/oct/16/the-guardians-climate-pledge-2019)
-
-### Others who commented on my pledges
-
-- 2021-07-22, [Ludo Waltman](https://twitter.com/LudoWaltman/status/1418083484686553092) and [Cooper Smout](https://twitter.com/CoopSmout/status/1418086715390976004)
-- 2021-07-21, [Philip N Cohen](https://twitter.com/familyunequal/status/1417892076331667458)
-- 2020-12-31, [Jan Ainali](https://twitter.com/Jan_Ainali/status/1344733775318671362)
-- 2015-12-06, [Claus Wilke](https://twitter.com/ClausWilke/status/673645194445647872)
-- 2011-10-19, [Alex Holcombe](https://twitter.com/ceptional/status/126584845005635584)
